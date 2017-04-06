@@ -14,3 +14,6 @@ function zzzz($x, $y)
 {
     phpversion();
 }
+?>
+
+v2 code
