@@ -12,6 +12,7 @@
  */
 function zzzz($x, $y)
 {
+    //v5 alpaha code
     phpversion();
 }
 ?>
